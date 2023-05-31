@@ -1,0 +1,598 @@
+[
+  {
+    "name": "Abc1",
+    "index": 1.39
+  },
+  {
+    "name": "Abc2",
+    "index": 1.07
+  },
+  {
+    "name": "Abc3",
+    "index": 1.38
+  },
+  {
+    "name": "Abc4",
+    "index": 1.26
+  },
+  {
+    "name": "Abc5",
+    "index": 1.06
+  },
+  {
+    "name": "Abc6",
+    "index": 1.21
+  },
+  {
+    "name": "Abc7",
+    "index": 1.33
+  },
+  {
+    "name": "Abc8",
+    "index": 1.14
+  },
+  {
+    "name": "Abc9",
+    "index": 0.87
+  },
+  {
+    "name": "Abc10",
+    "index": 1.22
+  },
+  {
+    "name": "Abc11",
+    "index": 1.36
+  },
+  {
+    "name": "Abc12",
+    "index": 1.35
+  },
+  {
+    "name": "Abc13",
+    "index": 1.15
+  },
+  {
+    "name": "Abc14",
+    "index": 1.23
+  },
+  {
+    "name": "Abc15",
+    "index": 1.01
+  },
+  {
+    "name": "Abc16",
+    "index": 1.21
+  },
+  {
+    "name": "Abc17",
+    "index": 1.15
+  },
+  {
+    "name": "Abc18",
+    "index": 1.34
+  },
+  {
+    "name": "Abc19",
+    "index": 1.38
+  },
+  {
+    "name": "Abc20",
+    "index": 1.27
+  },
+  {
+    "name": "Abc21",
+    "index": 1.2
+  },
+  {
+    "name": "Abc22",
+    "index": 0.98
+  },
+  {
+    "name": "Abc23",
+    "index": 1.16
+  },
+  {
+    "name": "Abc24",
+    "index": 1.34
+  },
+  {
+    "name": "Abc25",
+    "index": 1.39
+  },
+  {
+    "name": "Abc26",
+    "index": 1.17
+  },
+  {
+    "name": "Abc27",
+    "index": 1.17
+  },
+  {
+    "name": "Abc28",
+    "index": 1.2
+  },
+  {
+    "name": "Abc29",
+    "index": 0.96
+  },
+  {
+    "name": "Abc30",
+    "index": 1.16
+  },
+  {
+    "name": "Abc31",
+    "index": 1.01
+  },
+  {
+    "name": "Abc32",
+    "index": 1.3
+  },
+  {
+    "name": "Abc33",
+    "index": 1.3
+  },
+  {
+    "name": "Abc34",
+    "index": 1.37
+  },
+  {
+    "name": "Abc35",
+    "index": 1.39
+  },
+  {
+    "name": "Abc36",
+    "index": 1.13
+  },
+  {
+    "name": "Abc37",
+    "index": 1.35
+  },
+  {
+    "name": "Abc38",
+    "index": 1.27
+  },
+  {
+    "name": "Abc39",
+    "index": 1.2
+  },
+  {
+    "name": "Abc40",
+    "index": 1.16
+  },
+  {
+    "name": "Abc41",
+    "index": 1.14
+  },
+  {
+    "name": "Abc42",
+    "index": 1.23
+  },
+  {
+    "name": "Abc43",
+    "index": 1.21
+  },
+  {
+    "name": "Abc44",
+    "index": 1.13
+  },
+  {
+    "name": "Abc45",
+    "index": 1.38
+  },
+  {
+    "name": "Abc46",
+    "index": 1.16
+  },
+  {
+    "name": "Abc47",
+    "index": 1.01
+  },
+  {
+    "name": "Abc48",
+    "index": 1.38
+  },
+  {
+    "name": "Abc49",
+    "index": 1.14
+  },
+  {
+    "name": "Abc50",
+    "index": 1.17
+  },
+  {
+    "name": "Abc51",
+    "index": 1.06
+  },
+  {
+    "name": "Abc52",
+    "index": 1.31
+  },
+  {
+    "name": "Abc53",
+    "index": 1.3
+  },
+  {
+    "name": "Abc54",
+    "index": 1.12
+  },
+  {
+    "name": "Abc55",
+    "index": 1.06
+  },
+  {
+    "name": "Abc56",
+    "index": 1.22
+  },
+  {
+    "name": "Abc57",
+    "index": 1.26
+  },
+  {
+    "name": "Abc58",
+    "index": 1.28
+  },
+  {
+    "name": "Abc59",
+    "index": 1.15
+  },
+  {
+    "name": "Abc60",
+    "index": 0.96
+  },
+  {
+    "name": "Abc61",
+    "index": 1.2
+  },
+  {
+    "name": "Abc62",
+    "index": 1.11
+  },
+  {
+    "name": "Abc63",
+    "index": 1.44
+  },
+  {
+    "name": "Abc64",
+    "index": 1.24
+  },
+  {
+    "name": "Abc65",
+    "index": 1.03
+  },
+  {
+    "name": "Abc66",
+    "index": 1.31
+  },
+  {
+    "name": "Abc67",
+    "index": 0.89
+  },
+  {
+    "name": "Abc68",
+    "index": 0.95
+  },
+  {
+    "name": "Abc69",
+    "index": 1.17
+  },
+  {
+    "name": "Abc70",
+    "index": 1.08
+  },
+  {
+    "name": "Abc71",
+    "index": 1.17
+  },
+  {
+    "name": "Abc72",
+    "index": 1.06
+  },
+  {
+    "name": "Abc73",
+    "index": 1.17
+  },
+  {
+    "name": "Abc74",
+    "index": 1.24
+  },
+  {
+    "name": "Abc75",
+    "index": 1.24
+  },
+  {
+    "name": "Abc76",
+    "index": 1.16
+  },
+  {
+    "name": "Abc77",
+    "index": 1.26
+  },
+  {
+    "name": "Abc78",
+    "index": 1.39
+  },
+  {
+    "name": "Abc79",
+    "index": 1.09
+  },
+  {
+    "name": "Abc80",
+    "index": 1.24
+  },
+  {
+    "name": "Abc81",
+    "index": 1.12
+  },
+  {
+    "name": "Abc82",
+    "index": 0.99
+  },
+  {
+    "name": "Abc83",
+    "index": 1.03
+  },
+  {
+    "name": "Abc84",
+    "index": 1.19
+  },
+  {
+    "name": "Abc85",
+    "index": 1.12
+  },
+  {
+    "name": "Abc86",
+    "index": 1.31
+  },
+  {
+    "name": "Abc87",
+    "index": 1.25
+  },
+  {
+    "name": "Abc88",
+    "index": 1.36
+  },
+  {
+    "name": "Abc89",
+    "index": 1.12
+  },
+  {
+    "name": "Abc90",
+    "index": 1.12
+  },
+  {
+    "name": "Abc91",
+    "index": 1.06
+  },
+  {
+    "name": "Abc92",
+    "index": 1.14
+  },
+  {
+    "name": "Abc93",
+    "index": 1.33
+  },
+  {
+    "name": "Abc94",
+    "index": 1.21
+  },
+  {
+    "name": "Abc95",
+    "index": 1.05
+  },
+  {
+    "name": "Abc96",
+    "index": 1.17
+  },
+  {
+    "name": "Abc97",
+    "index": 1.09
+  },
+  {
+    "name": "Abc98",
+    "index": 1.1
+  },
+  {
+    "name": "Abc99",
+    "index": 1.3
+  },
+  {
+    "name": "Abc100",
+    "index": 1.2
+  },
+  {
+    "name": "Abc101",
+    "index": 1.17
+  },
+  {
+    "name": "Abc102",
+    "index": 1.13
+  },
+  {
+    "name": "Abc103",
+    "index": 1.18
+  },
+  {
+    "name": "Abc104",
+    "index": 0.93
+  },
+  {
+    "name": "Abc105",
+    "index": 1.41
+  },
+  {
+    "name": "Abc106",
+    "index": 1.31
+  },
+  {
+    "name": "Abc107",
+    "index": 1.06
+  },
+  {
+    "name": "Abc108",
+    "index": 1.33
+  },
+  {
+    "name": "Abc109",
+    "index": 1.23
+  },
+  {
+    "name": "Abc110",
+    "index": 1.28
+  },
+  {
+    "name": "Abc111",
+    "index": 1.02
+  },
+  {
+    "name": "Abc112",
+    "index": 1.29
+  },
+  {
+    "name": "Abc113",
+    "index": 1.14
+  },
+  {
+    "name": "Abc114",
+    "index": 1.11
+  },
+  {
+    "name": "Abc115",
+    "index": 1.01
+  },
+  {
+    "name": "Abc116",
+    "index": 1.1
+  },
+  {
+    "name": "Abc117",
+    "index": 1.1
+  },
+  {
+    "name": "Abc118",
+    "index": 1.09
+  },
+  {
+    "name": "Abc119",
+    "index": 1.33
+  },
+  {
+    "name": "Abc120",
+    "index": 1.13
+  },
+  {
+    "name": "Abc121",
+    "index": 1.16
+  },
+  {
+    "name": "Abc122",
+    "index": 1.28
+  },
+  {
+    "name": "Abc123",
+    "index": 1.44
+  },
+  {
+    "name": "Abc124",
+    "index": 1.19
+  },
+  {
+    "name": "Abc125",
+    "index": 1.26
+  },
+  {
+    "name": "Abc126",
+    "index": 1.03
+  },
+  {
+    "name": "Abc127",
+    "index": 1.11
+  },
+  {
+    "name": "Abc128",
+    "index": 1.21
+  },
+  {
+    "name": "Abc129",
+    "index": 1.29
+  },
+  {
+    "name": "Abc130",
+    "index": 1.41
+  },
+  {
+    "name": "Abc131",
+    "index": 1.24
+  },
+  {
+    "name": "Abc132",
+    "index": 1.27
+  },
+  {
+    "name": "Abc133",
+    "index": 1.25
+  },
+  {
+    "name": "Abc134",
+    "index": 1.18
+  },
+  {
+    "name": "Abc135",
+    "index": 1.14
+  },
+  {
+    "name": "Abc136",
+    "index": 1.07
+  },
+  {
+    "name": "Abc137",
+    "index": 1.04
+  },
+  {
+    "name": "Abc138",
+    "index": 1.22
+  },
+  {
+    "name": "Abc139",
+    "index": 1.31
+  },
+  {
+    "name": "Abc140",
+    "index": 1.15
+  },
+  {
+    "name": "Abc141",
+    "index": 1.27
+  },
+  {
+    "name": "Abc142",
+    "index": 1.11
+  },
+  {
+    "name": "Abc143",
+    "index": 1.3
+  },
+  {
+    "name": "Abc144",
+    "index": 0.97
+  },
+  {
+    "name": "Abc145",
+    "index": 0.95
+  },
+  {
+    "name": "Abc146",
+    "index": 1.29
+  },
+  {
+    "name": "Abc147",
+    "index": 1.37
+  },
+  {
+    "name": "Abc148",
+    "index": 1.21
+  },
+  {
+    "name": "Abc149",
+    "index": 1.39
+  }
+]
